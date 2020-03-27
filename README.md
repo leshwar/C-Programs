@@ -2,7 +2,10 @@
 C programs implemented as a part of __Introduction to C__ course at __VIT University__.
 Programs cover various topics such as Loops, Arrays, Functions, String Handling, Pointers, Files.
 
-Please go thorugh the Cycle sheet files to get the list of programs.
+### Click below to view list of all programs:
+* [List 1](https://github.com/leshwar/C-Programs/blob/master/CycleSheet%201.pdf)
+* [List 2](https://github.com/leshwar/C-Programs/blob/master/CycleSheet%202.pdf)
+* [List 3](https://github.com/leshwar/C-Programs/blob/master/CycleSheet%203.pdf)
 
 ### Sample Programs
 
