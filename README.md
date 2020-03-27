@@ -1,4 +1,4 @@
-# C Programs
+# C Programming
 C programs implemented as a part of __Introduction to C__ course at __VIT University__.
 Programs cover various topics such as Loops, Arrays, Functions, String Handling, Pointers, Files.
 
